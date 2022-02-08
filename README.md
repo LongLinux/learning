@@ -1,2 +1,2 @@
-# learning
+# novel
 getting to know Github
